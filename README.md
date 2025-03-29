@@ -1,5 +1,5 @@
-"There was an error processing this texture..."
-Oh yes, that's the whole point.
+## "There was an error processing this texture..."
+## Oh yes, that's the whole point.
 
 
 
