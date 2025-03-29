@@ -2,7 +2,8 @@
 ## Oh yes, that's the whole point.
 
 
-
+’’’
+cpp
 Bugged Textures is a visually insane resource pack for Minecraft 1.20.1 that:
 
 All block textures are glitched cubes
